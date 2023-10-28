@@ -1,8 +1,14 @@
 body {
-  background-color: lightblue;
+  background-color: linen;
 }
 
 h1 {
-  color: navy;
+  font: Monaco;
+  color: black;
+  margin-left: 20px;
+}
+p1 {
+  font: Monaco;
+  color: black;
   margin-left: 20px;
 }
