@@ -3,12 +3,12 @@ body {
 }
 
 h1 {
-  font: Monaco;
+  font-family: Monaco;
   color: black;
   margin-left: 20px;
 }
 p1 {
-  font: Monaco;
+  font-family: Monaco;
   color: black;
   margin-left: 20px;
 }
