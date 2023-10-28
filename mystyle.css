@@ -1,14 +1,14 @@
 body {
-  background-color: linen;
+  background-color: white;
 }
 
 h1 {
-  font-family: monaco;
-  color: navy;
+  font-family: Monaco;
+  color: black;
   margin-left: 20px;
 }
 p {
-  font-family: monaco;
+  font-family: Monaco;
   color: black;
   margin-left: 20px;
 }
