@@ -4,11 +4,12 @@ body {
 .mainHead {
   font-family: belwe;
   font-weight: bold;
-  font-size: 300 px;
+  font-size: 600;
   background-color: #dae8e7; 
-  height: 350px;
-  width: 400px;
+  height: 700px;
+  width: 350px;
   text-align: center;
+  color: #57646b
 }
 .subHead {
   font-family: roboto;
@@ -17,7 +18,6 @@ body {
   height: 200px;
   width: 200px;
 }
-   
 .openingParagraph {
   font-family: roboto;
   font-weight: bold;
