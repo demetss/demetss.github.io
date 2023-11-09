@@ -8,10 +8,10 @@ p {
 .mainHead {
   font-family: belwe;
   font-weight: bold;
-  font-size: 36 px;
+  font-size: 60 px;
   background-color: #c1d7d9; 
-  height: 50px;
-  width: 75px;
+  height: 75px;
+  width: 100px;
 }
 .subHead {
   font-family: roboto;
