@@ -4,10 +4,10 @@ body {
 .mainHead {
   font-family: belwe;
   font-weight: bold;
-  font-size: 60 px;
+  font-size: 300 px;
   background-color: #dae8e7; 
-  height: 75px;
-  width: 100px;
+  height: 350px;
+  width: 400px;
   text-align: center;
 }
 .subHead {
