@@ -13,14 +13,14 @@ p {
   text-align: center;
 }
 .subHead {
-  font-family: roboto-mono;
+  font-family: roboto;
   background-color: #c1d7d9; 
   height: 200px;
   width: 200px;
 }
    
 .openingParagraph {
-  font-family: roboto-mono;
+  font-family: roboto;
   background-color: #c1d7d9; 
   height: 500px;
   width: 500px;
