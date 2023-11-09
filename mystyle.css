@@ -1,16 +1,17 @@
 body {
-  background-color: white;
+  background-color: #c1d7d9;
 }
 
 .mainHead {
   font-family: monaco;
-  background-color: beige; 
+  background-color: #c1d7d9; 
   height: 500px;
-  width: 500px;
+  width: 50px;
 }
    
 .openingParagraph {
-  background-color: lightblue; 
+  font-family: monaco;
+  background-color: #c1d7d9; 
   height: 500px;
   width: 500px;
 }
