@@ -4,25 +4,24 @@ body {
 .mainHead {
   font-family: belwe;
   font-weight: bold;
+  font-size: 600px;
   background-color: #dae8e7; 
   text-align: center;
   color: #5b696e
 }
 .subHead {
-  font-family: "Roboto";
+  font-family: monaco;
   font-weight: bold;
   background-color: #dae8e7; 
   height: 200px;
   width: 200px;
 }
 .openingParagraph {
-  font-family: "Roboto";
-  list-style-type: none;
+  font-family: monaco;
   background-color: #dae8e7; 
   height: 500px;
   width: 500px;
 }
-
 ul {
   margin: 0;
 }
@@ -31,6 +30,7 @@ ul.dashed {
 }
 ul.dashed > li {
   text-indent: -5px;
+  font-family: monaco;
 }
 ul.dashed > li:before {
   content: "-";
