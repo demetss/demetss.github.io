@@ -1,19 +1,21 @@
 body {
   background-color: #c1d7d9;
 }
+p {
+  /* Center horizontally*/
+  text-align: center;
+}
 .mainHead {
-  font-family: belwe-bold;
+  font-family: belwe;
+  font-weight: bold;
   font-size: 36 px;
   background-color: #c1d7d9; 
   height: 50px;
   width: 75px;
 }
-p {
-  /* Center horizontally*/
-  text-align: center;
-}
 .subHead {
   font-family: roboto;
+  font-weight: bold;
   background-color: #c1d7d9; 
   height: 200px;
   width: 200px;
@@ -21,6 +23,7 @@ p {
    
 .openingParagraph {
   font-family: roboto;
+  font-weight: bold;
   background-color: #c1d7d9; 
   height: 500px;
   width: 500px;
