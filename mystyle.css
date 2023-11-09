@@ -16,8 +16,8 @@ body {
   width: 200px;
 }
 .openingParagraph {
-  font-family: roboto;
-  font-weight: bold;
+  font-family: "Roboto";
+  list-style-type: circle;
   background-color: #dae8e7; 
   height: 500px;
   width: 500px;
