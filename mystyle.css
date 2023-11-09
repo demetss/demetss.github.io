@@ -3,21 +3,21 @@ body {
 }
 
 .mainHead {
-  font-family: monaco;
+  font-family: belwe-bold;
   background-color: #c1d7d9; 
   height: 500px;
   width: 50px;
 }
 
 .subHead {
-  font-family: monaco;
+  font-family: roboto-mono;
   background-color: #c1d7d9; 
   height: 200px;
   width: 200px;
 }
    
 .openingParagraph {
-  font-family: monaco;
+  font-family: roboto-mono;
   background-color: #c1d7d9; 
   height: 500px;
   width: 500px;
