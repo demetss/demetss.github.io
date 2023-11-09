@@ -1,5 +1,5 @@
 body {
-  background-color: #c1d7d9;
+  background-color: #dae8e7;
 }
 h1 {
   /* Center horizontally*/
@@ -9,14 +9,14 @@ h1 {
   font-family: belwe;
   font-weight: bold;
   font-size: 60 px;
-  background-color: #c1d7d9; 
+  background-color: #dae8e7; 
   height: 75px;
   width: 100px;
 }
 .subHead {
   font-family: roboto;
   font-weight: bold;
-  background-color: #c1d7d9; 
+  background-color: #dae8e7; 
   height: 200px;
   width: 200px;
 }
@@ -24,7 +24,7 @@ h1 {
 .openingParagraph {
   font-family: roboto;
   font-weight: bold;
-  background-color: #c1d7d9; 
+  background-color: #dae8e7; 
   height: 500px;
   width: 500px;
 }
