@@ -1,10 +1,6 @@
 body {
   background-color: #dae8e7;
 }
-h1 {
-  /* Center horizontally*/
-  text-align: center;
-}
 .mainHead {
   font-family: belwe;
   font-weight: bold;
@@ -12,6 +8,7 @@ h1 {
   background-color: #dae8e7; 
   height: 75px;
   width: 100px;
+  text-align: center;
 }
 .subHead {
   font-family: roboto;
