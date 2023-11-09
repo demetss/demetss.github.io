@@ -8,6 +8,13 @@ body {
   height: 500px;
   width: 50px;
 }
+
+.subHead {
+  font-family: monaco;
+  background-color: #c1d7d9; 
+  height: 200px;
+  width: 200px;
+}
    
 .openingParagraph {
   font-family: monaco;
