@@ -9,10 +9,17 @@ body {
   text-align: center;
   color: #5b696e
 }
+.flex-container {
+  display: flex;
+  height: 600px;
+  flex-wrap: wrap;
+  align-content: center;
+}
 .subHead {
   font-family: monaco;
   font-weight: bold;
   background-color: #abc4cf; 
+  text-align: center-left
   height: 200px;
   width: 200px;
 }
@@ -36,5 +43,5 @@ ul.dashed > li:before {
   content: "-";
   text-indent: -5px;
 }
-   
+
 
