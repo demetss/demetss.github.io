@@ -4,21 +4,21 @@ body {
 .mainHead {
   font-family: belwe;
   font-weight: bold;
-  font-size: 600px;
-  background-color: #dae8e7; 
+  font-size: 300px;
+  background-color: #abc4cf; 
   text-align: center;
   color: #5b696e
 }
 .subHead {
   font-family: monaco;
   font-weight: bold;
-  background-color: #dae8e7; 
+  background-color: #abc4cf; 
   height: 200px;
   width: 200px;
 }
 .openingParagraph {
   font-family: monaco;
-  background-color: #dae8e7; 
+  background-color: #abc4cf; 
   height: 500px;
   width: 500px;
 }
