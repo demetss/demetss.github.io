@@ -10,11 +10,11 @@ body {
   color: #5b696e
 }
 .flexContainer{
-  display:flex;
+  display: flex;
   align-items: center;
   justify-content: center;
   flex-direction: column;
-  width: 50%;
+  width: 90%;
 }
 .subHead {
   font-family: monaco;
