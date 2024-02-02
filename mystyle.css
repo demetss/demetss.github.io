@@ -9,7 +9,7 @@ body {
   text-align: center;
   color: #5b696e
 }
-.flexContainer{
+.flexContainer {
   display: flex;
   align-items: center;
   justify-content: center;
