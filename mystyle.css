@@ -20,9 +20,9 @@
 }
 
 body {
-  min-height: 100vh;
+  min-height: 50vh;
   font-family: belwe;
-  font-weight: 500;
+  font-weight: 300;
   font-size: 1.25rem;
   display: flex;
   flex-direction: column;
@@ -129,14 +129,14 @@ body {
 .subHead {
   font-family: monaco;
   font-weight: bold;
-  background-color: #abc4cf; 
+  background-color: #ADD8E6; 
   text-align: center-left
   height: 200px;
   width: 200px;
 }
 .openingParagraph {
   font-family: monaco;
-  background-color: #abc4cf; 
+  background-color: #ADD8E6; 
   height: 500px;
   width: 500px;
 }
